@@ -1,2 +1,2 @@
-# Codesoft_Internship
+# CODESOFT
 Internship on Machine Learning
