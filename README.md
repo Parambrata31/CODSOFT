@@ -7,11 +7,12 @@ Data Collection
 Preprocessing
 
 Feature Extraction:
-TF-IDF (Term Frequency-Inverse Document Frequency)
+TF-IDF (Term Frequency-Inverse Document Frequency),
 Word Embeddings
 
 Model Selection:
-Naive Bayes
+Naive Bayes,
+Logistic Regression,
 Support Vector Machines (SVM)
 
 Model Training and Evaluation 
