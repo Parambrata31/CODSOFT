@@ -4,13 +4,14 @@ Approach:
 
 Text Preprocessing
 
-Feature Extraction
-TF-IDF (Term Frequency-Inverse Document Frequency), Word Embeddings, Model Selection and Training
+Feature Extraction:
+TF-IDF (Term Frequency-Inverse Document Frequency), Word Embeddings
 
-Machine learning classifiers
-Naive Bayes
-Logistic Regression
+Model Selection and Training:
+Naive Bayes,
+Logistic Regression.
 Support Vector Machines (SVM)
+
 Model Evaluation
 
 Hyperparameter Tuning
