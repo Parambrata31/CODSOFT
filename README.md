@@ -19,3 +19,5 @@ Hyperparameter Tuning
 Cross-Validation
 
 Deployment and Monitoring
+
+By building an effective AI model for spam SMS detection, it becomes possible to protect users from unwanted messages, improve mobile communication security, and enhance overall user experience
